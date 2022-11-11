@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WarehouseApp</string>
+    <string name="nameProduct">Название товара</string>
+    <string name="typeProduct">Категория товара</string>
+    <string name="countProduct">Количество товара</string>
+    <string name="priceProduct">Цена товара</string>
+
+    <string name="searchByProductName">Поиск по названию автомобиля</string>
+    <string name="sortByCountOrPrice">Сортировка</string>
+    <string name="clearButton">Очистить</string>
+    <string name="updateButton">Обновить</string>
+    <string name="deleteButton">Удалить</string>
+    <string name="photoProduct">Фотография товара</string>
+    <string name="addButton">Добавить</string>
+    <string name="backButton">Назад</string>
+</resources>
